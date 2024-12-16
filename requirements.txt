@@ -1,0 +1,23 @@
+# API e Servidor
+fastapi==0.115.5
+uvicorn==0.32.1
+
+# Configurações e Validação
+pydantic==2.10.2
+pydantic-settings==2.6.1
+python-dotenv==1.0.0
+
+# Google Gemini AI
+google-generativeai==0.3.2
+protobuf==5.29.0
+
+# Banco de Dados
+sqlalchemy==2.0.25
+alembic==1.13.1
+psycopg2-binary==2.9.9
+
+# Autenticação e Segurança
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==4.1.2
+python-multipart==0.0.6
